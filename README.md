@@ -5,8 +5,7 @@
 
 - 🌱 Estou aprendendo atualmente **C, C++ and JavaScript!**
 
-- ⚡ Fun fact **Platinei os seguintes jogos: Hollow Knight<br>
-DARK SOULS™ III<br>
+- ⚡ Fun fact **Platinei os seguintes jogos: <br>Hollow Knight<br>DARK SOULS™ III<br>
 <br>
 LEGO® Jurassic World™ O Mundo Dos Dinossauros<br>
 LEGO® Os Incríveis<br>
