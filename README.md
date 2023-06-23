@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Gabriel Homsi</h1>
-<h3 align="center">Estudante de engenharia de software e apreciador a dificuldade.</h3>
+<h3 align="center">Estudante de engenharia de software e apreciador da dificuldade.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homsiii&label=Profile%20views&color=0e75b6&style=flat" alt="homsiii" /> </p>
 
