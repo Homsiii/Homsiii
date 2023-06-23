@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, sou o Gabriel Homsi</h1>
-<h3 align="center">Estudante de engenharia de software e aprecio a dificuldade.</h3>
+<h3 align="center">Estudante de engenharia de software e apreciador a dificuldade.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homsiii&label=Profile%20views&color=0e75b6&style=flat" alt="homsiii" /> </p>
 
 - 🌱 Estou aprendendo atualmente **C, C++ and JavaScript!**
 
-- ⚡ Fun fact **Platinei Dark Souls 3**
+- ⚡ Fun fact **Platinei os seguintes jogos: Dark Souls 3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
