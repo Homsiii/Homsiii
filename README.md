@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo atualmente **C, C++ and JavaScript!**
 
-- ⚡ Fato estranho e divertido: <br> **Eu PLATINEI os seguintes jogos <br><br> - Hollow Knight<br> - DARK SOULS™ III<br>
+- ⚡ Fato estranho porém que me orgulho: <br> **Eu PLATINEI os seguintes jogos <br><br> - Hollow Knight<br> - DARK SOULS™ III<br>
 <br> - LEGO® Jurassic World™ O Mundo Dos Dinossauros<br> - LEGO® Os Incríveis<br> - LEGO® NINJAGO® O Filme: Video Game<br> - LEGO® DC Super-Vilões<br> - LEGO® Marvel Super Heroes 2<br><br> - Enter the Gungeon<br> - The Binding of Isaac<br> - Super Chicken Jumper<br><br> - Rocket League®**<br><br>
 
 <h3 align="left">Connect with me:</h3>
