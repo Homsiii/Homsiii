@@ -5,8 +5,21 @@
 
 - 🌱 Estou aprendendo atualmente **C, C++ and JavaScript!**
 
-- ⚡ Fun fact **Platinei os seguintes jogos: Dark Souls 3**
-
+- ⚡ Fun fact **Platinei os seguintes jogos: Hollow Knight<br>
+DARK SOULS™ III<br>
+<br>
+LEGO® Jurassic World™ O Mundo Dos Dinossauros<br>
+LEGO® Os Incríveis<br>
+LEGO® NINJAGO® O Filme: Video Game<br>
+LEGO® DC Super-Vilões<br>
+LEGO® Marvel Super Heroes 2<br>
+<br>
+Enter the Gungeon<br>
+The Binding of Isaac<br>
+Super Chicken Jumper<br>
+<br>
+Rocket League®**<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-homsi-0637a7253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-homsi-0637a7253" height="30" width="40" /></a>
