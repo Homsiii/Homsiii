@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homsiii&label=Profile%20views&color=0e75b6&style=flat" alt="homsiii" /> </p>
 
-- 🌱 Estou aprendendo atualmente **C, C++ and JavaScript!**
-
-- ⚡ Fato estranho porém que me orgulho: <br> **Eu PLATINEI os seguintes jogos <br><br> - Hollow Knight<br> - DARK SOULS™ III<br>
-<br> - LEGO® Jurassic World™ O Mundo Dos Dinossauros<br> - LEGO® Os Incríveis<br> - LEGO® NINJAGO® O Filme: Video Game<br> - LEGO® DC Super-Vilões<br> - LEGO® Marvel Super Heroes 2<br><br> - Enter the Gungeon<br> - The Binding of Isaac<br> - Super Chicken Jumper<br><br> - Rocket League®**<br><br>
+- 🌱 Estou aprendendo atualmente **Julia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
