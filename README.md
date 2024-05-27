@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://github.com/Homsiii/Homsiii#:~:text=12%20minutes%20ago-,dark%20souls.gif,-Add%20files%20via)"  />
+<img align="right" height="75" src="https://64.media.tumblr.com/4c8b91af75fcffc73d0a47e6dbab38b8/tumblr_pwos0rUVrp1xe479qo4_540.gif"  />
 
 ###
 
