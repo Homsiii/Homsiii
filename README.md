@@ -38,6 +38,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Homsiii/Homsiii/output/snake.svg" alt="Snake animation" />
 
 ###
