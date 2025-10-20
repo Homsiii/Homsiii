@@ -1,0 +1,25 @@
+name: GitHub-Profile-Actions
+
+on:
+  schedule:
+    # Atualiza a cada 24 horas
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  contrib-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # Esta é a Action que gera o gráfico do Pac-Man
+      - uses: jwenjian/gh-profile-action@v1.2.0
+        with:
+          # O nome de usuário do GitHub
+          github_user_name: Homsiii
+
+          # O nome dos arquivos de saída
+          outputs: output/pacman
+        env:
+          # O token do GitHub para ler suas contribuições
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
