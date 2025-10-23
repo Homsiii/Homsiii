@@ -13,7 +13,6 @@
   <img src="https://github-readme-stats-eta-ochre-69.vercel.app/api/top-langs?username=Homsiii&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&count_private=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Homsiii&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="37" alt="linkedin logo"  />
